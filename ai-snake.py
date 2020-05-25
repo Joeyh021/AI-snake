@@ -22,7 +22,7 @@ HUMAN_SPEED = 10
 AI_SPEED = 100
 DISCOUNT_FACTOR = 0.995
 L_FILE = "leaderboard.json"
-M_FILE = "{0}/model-{0}.h5".format("echo")
+M_FILE = "AI-final.h5"
 M_RIGHT = ((0, -1),
            (1, 0))
 M_LEFT = ((0, 1),
